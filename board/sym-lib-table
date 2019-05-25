@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name TinyFPGA-A-Programmer-rescue)(type Legacy)(uri ${KIPRJMOD}/TinyFPGA-A-Programmer-rescue.lib)(options "")(descr ""))
+  (lib (name pic)(type Legacy)(uri ${KIPRJMOD}/pic.lib)(options "")(descr ""))
+  (lib (name tinyfpga)(type Legacy)(uri ${KIPRJMOD}/tinyfpga.lib)(options "")(descr ""))
+)
